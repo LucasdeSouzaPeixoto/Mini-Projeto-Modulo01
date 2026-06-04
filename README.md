@@ -239,7 +239,7 @@ Localizada em `BoxService.ts`, possui:
 
 ## Organização do Kanban
 
-Link do Kanban: **(https://trello.com/b/myF94JCT/mini-projeto-m%C3%B3dulo-1-sctec)**
+Link do Kanban: https://github.com/users/LucasdeSouzaPeixoto/projects/2/views/1
 
 ---
 
