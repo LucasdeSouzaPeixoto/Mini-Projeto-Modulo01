@@ -1,3 +1,4 @@
+// Interfaces de tipagem do projeto Pokédex TypeScript Lite
 // Interface que representa o Pokémon simplificado que usamos no projeto
 export interface PokemonResumo {
   id: number;
